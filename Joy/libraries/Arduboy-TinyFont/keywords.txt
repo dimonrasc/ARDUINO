@@ -1,7 +1,0 @@
-https://github.com/yinkou/Arduboy-TinyFont
-
-#######################################
-# Datatypes (KEYWORD1)
-#######################################
-
-Tinyfont	KEYWORD1

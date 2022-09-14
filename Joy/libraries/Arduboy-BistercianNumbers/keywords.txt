@@ -1,7 +1,0 @@
-# https://github.com/franalvarez21/Arduboy-BistercianNumbers
-
-#######################################
-# Datatypes (KEYWORD1)
-#######################################
-
-Bistercian	KEYWORD1
